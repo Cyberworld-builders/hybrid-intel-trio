@@ -88,3 +88,10 @@ I'm just doing this in the console and CLI for now. I have some interesting Terr
         - i was missing the storage import and export in `firebase.js`
 
 ![Image](https://github.com/user-attachments/assets/83f760f3-0fe9-44f9-bd9e-a7ddae2306c4)
+
+- moving firebase.js config to env 
+    - this is probably pointless long term but until i harden my bucket and other things i want to avoid exposing this
+- getting react dev tools because the message said so
+- getting errors from the backend but i think we can call this good for the first front end ticket. this gives us a basic form for uploads
+
+![image](https://github.com/user-attachments/assets/77535f4b-155f-42bf-9125-c46c1a09ebd0)
