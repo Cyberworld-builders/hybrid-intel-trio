@@ -1,0 +1,11 @@
+## Notes 
+- need to upgrade npm
+    - `npm install -g npm@11.3.0`
+- i created the repo first so i'll need to run create react app in the existing directory
+    - `npx create-react-app .`
+    - needed to force
+        - `npx create-react-app . --force`
+    - still giving issues.
+        - moved the markdown file temporarily to get through the process. i just want to keep moving forward.
+- react scaffolding is up
+    - ![Image](https://github.com/user-attachments/assets/10f68a23-1f4a-4c22-8575-7dac0d3f8ca0)
